@@ -15,7 +15,7 @@ console.log('Hi. 👋');
 > React (MobX, Redux)  
 > Vue (not to say, that I know it well, but I have basic understanding how it works)
   
-Of course, I know HTML (BEM), CSS (flexbox, grid), Bootstrap etc, but I think, that it is base of web and every web-developer must understand they are.   
+Of course, I know HTML, CSS (flexbox, grid), Bootstrap, BEM methodology etc, but I think, that it is base of web and every web-developer must understand they are.   
 What about design? I working in common applications like Photoshop and Figma and have a small portfolio which I share with you after some time. This portfolio contains UX/UI desings of kind applications and more.
 
 ## 🔧 Back-End
