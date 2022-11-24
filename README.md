@@ -8,7 +8,7 @@ console.log('Hi. 👋');
 ## 🛡 Front-End
 > SASS (SCSS)  
 > React (MobX, Redux)
-> Typescript
+> TypeScript
 > Vue (not to say, that I know it well, but I have basic understanding how it works)
   
 Of course, I know HTML, CSS (flexbox, grid), Bootstrap, BEM methodology etc, but I think, that it is base of web and every web-developer must understand they are.   
