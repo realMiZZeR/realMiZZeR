@@ -37,8 +37,14 @@ greetings("Драсте. 👋", Language.CSharp);
 <details>
   <summary><h2>📘Порфтолио</h2></summary>
   В будущем планирую сделать собственный сайт, на котором я буду размещать все свои завершённые проекты. Наверное, получится что-то вроде блога =)
-  А пока что, могу похвастаться только полуготовыми дизайнами для всякого:
-  > https://www.figma.com/file/TeEdxVe2nke2261WcivJbz/Journals?node-id=0%3A1&t=Je5O3LJ8Y6lBXlxb-1
-  > https://www.figma.com/file/Ok6tjLOL1RvLsGQcGrlrgv/NANDiZZeR-org?node-id=464%3A142&t=84QUv2WkQSaYqwJ6-1
-  > https://www.figma.com/file/fXGCAlrR9DqBERYv8FtBgb/Fishing?node-id=0%3A1&t=l3wZV4apysc9orZj-1
+  А пока что, могу похвастаться только полуготовыми дизайнами для всякого: <br/>
+    <a href="https://www.figma.com/file/TeEdxVe2nke2261WcivJbz/Journals?node-id=0%3A1&t=Je5O3LJ8Y6lBXlxb-1">
+        > Дневники
+    </a> <br/>
+    <a href="https://www.figma.com/file/Ok6tjLOL1RvLsGQcGrlrgv/NANDiZZeR-org?node-id=464%3A142&t=84QUv2WkQSaYqwJ6-1">
+        > Дипломы и всякое
+    </a> <br/>
+    <a href="https://www.figma.com/file/fXGCAlrR9DqBERYv8FtBgb/Fishing?node-id=0%3A1&t=l3wZV4apysc9orZj-1">
+        > Рыбалка
+    </a>
 </details>
