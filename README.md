@@ -17,8 +17,8 @@ greetings("Hello, developer!");
 
 <br />
 
-| ![MiZZeR's GitHub stats](https://github-readme-stats.vercel.app/api?username=realMiZZeR&show_icons=true&theme=aura_dark) | ![Useful languages](https://github-readme-stats.vercel.app/api/top-langs/?username=realMiZZeR&layout=compact) | [![Working on](https://github-readme-stats.vercel.app/api/pin/?username=realMiZZeR&repo=game_diary)](https://github.com/realMiZZeR/game_diary) |
-| ------------- | ------------- | ------------- |
+| ![MiZZeR's GitHub stats](https://github-readme-stats.vercel.app/api?username=realMiZZeR&show_icons=true&theme=aura_dark) | ![Useful languages](https://github-readme-stats.vercel.app/api/top-langs/?username=realMiZZeR&layout=compact)
+| ------------- | ------------- |
 
 
 
