@@ -17,7 +17,7 @@ greetings("Hello, developer!");
 
 <br />
 
-| ![MiZZeR's GitHub stats](https://github-readme-stats.vercel.app/api?username=realMiZZeR&show_icons=true&theme=aura_dark) | ![Useful languages](https://github-readme-stats.vercel.app/api/top-langs/?username=realMiZZeR&layout=compact)
+| ![MiZZeR's GitHub stats](https://github-readme-stats.vercel.app/api?username=realMiZZeR&show_icons=true&theme=aura_dark&hide=contribs) | ![Useful languages](https://github-readme-stats.vercel.app/api/top-langs/?username=realMiZZeR&layout=compact)
 | ------------- | ------------- |
 
 
