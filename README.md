@@ -8,9 +8,11 @@
 
 ### My precious languages...
 
-![JavaScript](https://github.com/realMiZZeR/realMiZZeR/blob/main/images_90x90.png)&nbsp;&nbsp;&nbsp;
-![TypeScript](https://github.com/realMiZZeR/realMiZZeR/blob/main/Typescript_logo_2020.svg_90x90.png?raw=true)&nbsp;&nbsp;&nbsp;
-![CSharp](https://github.com/realMiZZeR/realMiZZeR/blob/main/c-sharp-c-logo-02F17714BA-seeklogo.com_1_30.png)
+![JavaScript](https://github.com/realMiZZeR/realMiZZeR/blob/main/js-logo.png)&nbsp;&nbsp;&nbsp;
+![TypeScript](https://github.com/realMiZZeR/realMiZZeR/blob/main/ts-logo.png)&nbsp;&nbsp;&nbsp;
+![React](https://github.com/realMiZZeR/realMiZZeR/blob/main/react-logo.png)&nbsp;&nbsp;&nbsp;
+![CSharp](https://github.com/realMiZZeR/realMiZZeR/blob/main/csharp-logo.png)&nbsp;&nbsp;&nbsp;
+![Unity](https://github.com/realMiZZeR/realMiZZeR/blob/main/unity-logo.png)&nbsp;&nbsp;&nbsp;
 
 <br />
 
