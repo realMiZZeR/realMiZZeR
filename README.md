@@ -1,7 +1,4 @@
-```csharp
-greetings("Hello, developer!");
-// I need image for more presentable...
-```
+![Header](https://github.com/realMiZZeR/realMiZZeR/blob/main/header.png)
 
 ---
 ### A little about me...
