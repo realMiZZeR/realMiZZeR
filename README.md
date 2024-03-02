@@ -3,7 +3,7 @@
 ---
 ### A little about me...
 - ❤️ I beginner in Web Frontend and Unity development.
-- 🛠️ In nowadays I working in organization with Unity/WebGL.
+- 🛠️ In nowadays I working in organization with React Native app.
 - 😎 Wanna be a cool developer that has a lot of stars in GitHub and be demand everywhere.
 
 <br />
